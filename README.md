@@ -1,2 +1,2 @@
 # Names-classifier
-Predicting names origings 
+Predicting names origins 
